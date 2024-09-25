@@ -5,6 +5,7 @@ import TelaMenu from "./componentes/Telas/TelaMenu";
 import Tela404 from "./componentes/Telas/Tela404";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
+//mim ser lindo
 function App() {
   return (
     <div className="App">
